@@ -3,7 +3,7 @@ try:
 except ImportError:
     from pip._internal import main as pip
 print(
-'''A program written by AetherYT, to use basic Python commands without CMD/root/Administrator access. A-CLIP stands for:
+'''A program written by AetherYT, to use basic Python commands without Command Prompt/Shell/Root/Administrator access. A-CLIP stands for:
 
 Alternative
 Command
